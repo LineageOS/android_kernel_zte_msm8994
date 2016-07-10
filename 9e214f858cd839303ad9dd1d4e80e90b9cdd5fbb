@@ -16,6 +16,40 @@
       "revId": "9e214f858cd839303ad9dd1d4e80e90b9cdd5fbb",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3fa7e38b_915ea9e4",
+        "filename": "drivers/platform/msm/qpnp-haptic.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 1318,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2016-07-10T12:52:11Z",
+      "side": 1,
+      "message": "Wrap to 80 chars",
+      "revId": "9e214f858cd839303ad9dd1d4e80e90b9cdd5fbb",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3fa7e38b_31733583",
+        "filename": "drivers/platform/msm/qpnp-haptic.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 1321,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2016-07-10T12:52:11Z",
+      "side": 1,
+      "message": "Same",
+      "revId": "9e214f858cd839303ad9dd1d4e80e90b9cdd5fbb",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
